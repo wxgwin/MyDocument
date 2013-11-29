@@ -1,0 +1,4 @@
+MyDocument
+==========
+
+Record technology document
